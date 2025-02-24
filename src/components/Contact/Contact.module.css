@@ -1,0 +1,17 @@
+.contactText {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 12px;
+}
+.number {
+  color: #0047ff;
+}
+.contactButton {
+  padding: 8px 16px;
+}
+.title {
+  min-width: 180px;
+  padding: 4px;
+  text-align: left;
+}
